@@ -1,8 +1,4 @@
 User-agent: *
 Allow: /
 
-# Bloqueos básicos (no tenés backend, pero dejamos listo)
-Disallow: /css/
-
-# Sitemap
 Sitemap: https://orvis.com.ar/sitemap.xml
