@@ -3,7 +3,6 @@ Allow: /
 
 # Bloqueos básicos (no tenés backend, pero dejamos listo)
 Disallow: /css/
-Disallow: /img/
 
 # Sitemap
 Sitemap: https://orvis.com.ar/sitemap.xml
